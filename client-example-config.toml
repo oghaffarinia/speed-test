@@ -1,0 +1,9 @@
+[server]
+protocol = "tcp"
+address = "127.0.0.1:7777"
+read_write_timeout = "10s"
+
+[test]
+download_time = "30s"
+upload_time = "20s"
+

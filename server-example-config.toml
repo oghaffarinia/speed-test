@@ -1,0 +1,5 @@
+[server]
+protocol = "tcp"
+port = 7777
+read_write_timeout = "10s"
+
